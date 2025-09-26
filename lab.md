@@ -18,12 +18,13 @@ User stories:
  • Поле для назви курсу/лекції
  • Кнопка “Зберегти”
  • Кнопка “Скасувати”
-
+<img width="256" height="384" alt="image" src="https://github.com/user-attachments/assets/e27b87ab-b2a0-47d9-8f0c-acff9b985d40" />
 Екран додавання завдання:
  • Поле для назви курсу/лекції
  • Кнопка “Зберегти”
  • Кнопка “Скасувати”
 Реалізація:
+{
   function addTask(taskName):
     if taskName is empty:
         return "Error: Назва завдання не може бути порожньою"
@@ -31,3 +32,4 @@ User stories:
         create new Task with {name: taskName, status: "невиконано"}
         add Task to taskList
         return "Task додано успішно"
+}
