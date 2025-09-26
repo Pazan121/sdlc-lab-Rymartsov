@@ -34,10 +34,12 @@ User stories:
 <img width="256" height="384" alt="image" src="https://github.com/user-attachments/assets/e27b87ab-b2a0-47d9-8f0c-acff9b985d40" />
 
 Реалізація:
-{  function addTask(taskName):
+```
+  function addTask(taskName):
     if taskName is empty:
         return "Error: Назва завдання не може бути порожньою"
     else:
         create new Task with {name: taskName, status: "невиконано"}
         add Task to taskList
-        return "Task додано успішно"  }
+        return "Task додано успішно"
+```
