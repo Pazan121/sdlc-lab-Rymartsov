@@ -13,7 +13,7 @@ User stories:
  • Кнопка “Додати завдання”
  • Список завдань (з чекбоксами “виконано”)
  • Фільтри: [Усі] [Виконані] [Невиконані]
-https://github.com/Pazan121/sdlc-lab-Rymartsov/blob/main/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%20%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0.png
+<img width="524" height="1536" alt="image" src="https://github.com/user-attachments/assets/3d9ad801-8d68-4246-8107-b200f446788f" />
 Екран додавання завдання:
  • Поле для назви курсу/лекції
  • Кнопка “Зберегти”
