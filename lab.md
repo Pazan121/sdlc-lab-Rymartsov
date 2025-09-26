@@ -13,7 +13,7 @@ User stories:
  • Кнопка “Додати завдання”
  • Список завдань (з чекбоксами “виконано”)
  • Фільтри: [Усі] [Виконані] [Невиконані]
-<img width="524" height="1536" alt="image" src="https://github.com/user-attachments/assets/3d9ad801-8d68-4246-8107-b200f446788f" />
+<img width="256" height="384" alt="image" src="https://github.com/user-attachments/assets/3d9ad801-8d68-4246-8107-b200f446788f" />
 Екран додавання завдання:
  • Поле для назви курсу/лекції
  • Кнопка “Зберегти”
